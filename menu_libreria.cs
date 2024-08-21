@@ -12,7 +12,8 @@ class HelloWorld
 	static void Main()
 	{
 		int eleccion=0;
-		while (eleccion !=3) {
+		while (eleccion !=3)
+		{
 			Console.WriteLine("Bienvenido a la libreria");
 			Console.WriteLine("1 ingrese");
 			Console.WriteLine("2 cancelar inscripcion");
